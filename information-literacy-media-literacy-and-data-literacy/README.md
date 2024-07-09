@@ -11,3 +11,4 @@ Topics include:
 **Media literacy skills and knowledge:** How to develop skills for the creation and consumption of, and participation in, digital media.
  
 **Data literacy skills and knowledge:** will support efficient, effective and ethical creation, maintenance, interpretation, dissemination and preservation of data in both personal and professional capacities.
+**EscAPAde: A Referencing Quest** is a virtual APA7 Escape Room game to practice APA7 referencing that JCU created.  https://libguides.jcu.edu.au/apa/watch-and-play
